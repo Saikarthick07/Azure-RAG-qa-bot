@@ -18,7 +18,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline usin
 
 ### 1. **Clone the Repo**
 ```bash
-git clone https://github.com/your-username/azure-rag-qa-bot.git
+git clone https://github.com/Saikarthick07/Azure-RAG-qa-bot.git
 cd azure-rag-qa-bot
 ```
 ### 2. **Set Up Python Environment**
